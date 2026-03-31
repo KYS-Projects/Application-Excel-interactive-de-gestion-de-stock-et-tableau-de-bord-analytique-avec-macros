@@ -3,11 +3,13 @@ Ce projet combine la gestion de stock et l’analyse dynamique des performances 
 
 Fonctionnalités principales :
 
-# Gestion des stocks :
+### Gestion des stocks :
+
 → Initialisation des marchandises en stock.
 → Enregistrement des opérations d’entrée et de sortie dans des feuilles séparées.
 → Visualisation du stock final avec alertes sur l’état des marchandises.
-# Tableau de bord interactif :
+### Tableau de bord interactif :
+
 → Suivi du total des quantités et valeurs du stock, des entrées et sorties.
 → Répartition des marchandises par catégorie.
 → Analyse mensuelle des entrées et sorties.
